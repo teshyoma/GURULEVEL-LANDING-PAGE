@@ -542,7 +542,7 @@ top: 248px;
 border-radius: 0px;
 padding: 48px 0px 48px 0px;
 background: #101828;
-position: relative;
+position: absolute;
 }
 
 .black p {
